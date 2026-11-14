@@ -1,0 +1,51 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Visual Studio / VS Code / Rider
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity-generated files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Copyrighted background music - kept on this computer only, never uploaded.
+# Without it the game plays its built-in tune.
+/Assets/Audio/Music/Resources/SpaceCadet.mp3
+/Assets/Audio/Music/Resources/SpaceCadet.mp3.meta
+/Assets/Audio/Music/SpaceCadet.mp3
+/Assets/Audio/Music/SpaceCadet.mp3.meta
